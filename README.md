@@ -26,4 +26,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="flix.gif" width=250><br>
 
 ### Notes
-Had touble recording the app with recordit. It kept recording my desktop background. So used a differt app to create the Gif.
+1. Had touble recording the app with recordit. It kept recording my desktop background. So used a different app to create the Gif.
+
