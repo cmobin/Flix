@@ -29,7 +29,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ### Notes
- -[x] User sees an app icon on the home screen and a styled launch screen.
+ -[x] User sees an app icon on the home screen and a styled launch screen.<br>
  -[x] Auto layout added 
  
 
